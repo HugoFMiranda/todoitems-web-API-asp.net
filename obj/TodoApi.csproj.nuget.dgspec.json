@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hugo\\Desktop\\TodoApi\\TodoApi\\TodoApi.csproj": {}
+    "C:\\Users\\Hugo\\Desktop\\SINF2\\TodoApi\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hugo\\Desktop\\TodoApi\\TodoApi\\TodoApi.csproj": {
+    "C:\\Users\\Hugo\\Desktop\\SINF2\\TodoApi\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hugo\\Desktop\\TodoApi\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\Hugo\\Desktop\\SINF2\\TodoApi\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\Hugo\\Desktop\\TodoApi\\TodoApi\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\Hugo\\Desktop\\SINF2\\TodoApi\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\Hugo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hugo\\Desktop\\TodoApi\\TodoApi\\obj\\",
+        "outputPath": "C:\\Users\\Hugo\\Desktop\\SINF2\\TodoApi\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hugo\\AppData\\Roaming\\NuGet\\NuGet.Config"

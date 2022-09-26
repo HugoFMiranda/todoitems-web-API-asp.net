@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KoArSLC9U9Qr2NpjTRZNbSLd20bAPNfrxPrOH17vT95HzKt2eiGM0Z6kosrn31UVjK6oyi5W4ggdZbBUw6bGFw==",
+  "dgSpecHash": "+bYI/1A/ddEWgZjzfJbqQzEy+RdaDn1Eq8iHZVQ9NRphzeVLkEnulg2+2nP1c0kwFlN9l7pyANLtlyOBPWPSkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hugo\\Desktop\\TodoApi\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "C:\\Users\\Hugo\\Desktop\\SINF2\\TodoApi\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hugo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Hugo\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
